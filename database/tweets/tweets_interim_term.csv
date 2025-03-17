@@ -1,1 +1,1 @@
-id,text,isRetweet,isDeleted,device,favorites,retweets,time,isFlagged
+time,id,text,isRetweet,isDeleted,device,favorites,retweets,isFlagged
